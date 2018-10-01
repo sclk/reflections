@@ -15,6 +15,9 @@ commitler arasindaki kronolojik sira ortaya cikar
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+added custom branch to master branch
+
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
