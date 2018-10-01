@@ -21,5 +21,7 @@ added custom branch to master branch
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
+Automatic merge 
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
